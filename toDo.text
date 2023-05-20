@@ -1,0 +1,35 @@
+1. Move ApiHandler to a separate class into MwApi
+3. Try to figure out, if there is a way to differentiate between web pages for:
+a) characters
+b) locations
+c) items
+d) quests
+e) fates
+f) achievements
+g) minions
+h) mounts
+i) emotes
+j) orchestrion rolls
+k) barding
+l) hairstyles
+m) armoires
+n) actions
+o) traits
+p) statuses
+q) titles
+r) weather
+s) mobs
+t) NPCs
+u) levequests
+v) instances
+w) dungeons
+x) raids
+y) trials
+z) guildhests
+aa) duties
+ab) actions
+ac) traits
+ad) statuses
+
+4. Retrieve content of the pages
+5. Figure out how to get the url for pages with title like: ????
